@@ -1,0 +1,19 @@
+body{
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Mjenjanje_boja{
+ padding: 0.25rem,0.5rem;
+ border: 3px solid;
+ background-color: grey;
+ color: white;
+ font-size: 1.5rem;
+ cursor: pointer;
+}
+.Mjenjanje_boja:hover{
+    background-color: white;
+    color: grey;
+    
+}
